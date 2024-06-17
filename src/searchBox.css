@@ -1,0 +1,9 @@
+.searchBox {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full viewport height to center vertically */
+    text-align: center; /* This centers text inside elements */
+    margin-bottom: 25px;
+}
